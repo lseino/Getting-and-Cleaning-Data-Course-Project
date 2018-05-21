@@ -5,7 +5,7 @@ Publication owned by Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra a
 Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine.
  International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.
 
-##Code
+## Code
 I had to extract a completed calculated value from both  the /train/X_train and X_test data,  use the script to  merge
 that data  with the different subjects(subject_train), activity type as well as their respective features.
 I also had to isolate the datas containing keywords such as Mean and Standard deviation which i then used to
